@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 public class Condionalstatements {
 
 	public static void main(String[] args) {
